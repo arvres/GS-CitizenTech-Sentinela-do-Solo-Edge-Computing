@@ -12,7 +12,7 @@ Disciplina: **Edge Computing & Computer Systems**
 - Rafaella Pazzanese - RM 572296
 
 **Links:**
-- Simulação Wokwi: [](https://wokwi.com/projects/480861247681298433)
+- Simulação Wokwi: [(https://wokwi.com/projects/480861247681298433)]
 - Vídeo (YouTube): link do vídeo
 
 ---
