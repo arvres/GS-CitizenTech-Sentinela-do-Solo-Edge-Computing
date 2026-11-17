@@ -81,8 +81,8 @@ const char* WIFI_PASS   = "";
 const int   WIFI_CANAL  = 6;
 const char* MQTT_BROKER = "broker.hivemq.com";
 const int   MQTT_PORTA  = 1883;
-// TROQUE "grupoXX" por algo unico do seu grupo (o broker e publico!)
-const char* MQTT_TOPICO = "gs2026/sentinela-solo/grupoXX/telemetria";
+//                                                Esse é o caminho para receber os dados pelo HiveMQ
+const char* MQTT_TOPICO = "gs2026/sentinela-solo/GS-DigitalRequiem/telemetria";
 const char* ID_ESTACA   = "EST-01";
 const char* CLUSTER_ID  = "CL-ARGISSOLO-01";
 
