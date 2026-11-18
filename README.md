@@ -103,5 +103,25 @@ O **Sentinela do Solo** usa uma estaca inteligente cravada nos barrancos mais cr
    * 🔴 **Vermelho:** aumente a aceleração X mais rápido até a taxa passar de 2,0 °/h.
    * 🔄 **Retorno seguro:** pare de mexer no MPU6050; a taxa cai para ~0 e o display indica retorno seguro. Volte o potenciômetro a zero para a chuva acumulada sair da janela de 24 s.
    * ⚪ **Erro (estado 0):** segure o botão vermelho; o LED amarelo pisca sem alarme falso.
-4. **Telemetria:** abra o HiveMQ Web Client, conecte e assine o tópico `gs
- 
+4. **Telemetria:** abra o HiveMQ Web Client, conecte e assine o tópico `gs2026/sentinela-solo/<grupo>/telemetria`.
+
+---
+
+## ⚠️ 6. Observações
+
+> [!WARNING]
+> * O broker HiveMQ é público: use um nome de tópico exclusivo do grupo.
+> * Se o WiFi/MQTT falhar, o dispositivo continua decidindo e acionando os alertas localmente (`RNF01`).
+> * O envio de telemetria é não bloqueante e não interfere na decisão local.
+
+---
+
+## 👥 Integrantes
+
+| | Nome | RM |
+| :---: | :--- | :---: |
+| 💻 | **Anderson Marcolino** | `574066` |
+| 💻 | **Caio Maluza** | `572906` |
+| 💻 | **Felipe Luan** | `569565` |
+| 💻 | **Pedro Henrique Alves** | `569192` |
+| 💻 | **Rafaella Pazzanese** | `572296` |
