@@ -6,7 +6,7 @@
 **Disciplina:** Edge Computing & Computer Systems
 
 [![Simulação Wokwi](https://img.shields.io/badge/Simula%C3%A7%C3%A3o-Wokwi-blue?style=for-the-badge&logo=espressif)](https://wokwi.com/projects/480861247681298433)
-[![Vídeo YouTube](https://img.shields.io/badge/V%C3%ADdeo-YouTube-red?style=for-the-badge&logo=youtube)](#)
+[![Vídeo YouTube](https://img.shields.io/badge/V%C3%ADdeo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/8mrqJ03PUwU?si=UhISEwxEPtANbQCK)
 [![Protocolo](https://img.shields.io/badge/MQTT-HiveMQ-orange?style=for-the-badge&logo=mqtt)](https://www.hivemq.com/demos/websocket-client/)
 
 </div>
@@ -16,7 +16,7 @@
 ## 🔗 Links
 
 * **Simulação Wokwi:** [https://wokwi.com/projects/480861247681298433](https://wokwi.com/projects/480861247681298433)
-* **Vídeo (YouTube):** link do vídeo
+* **Vídeo (YouTube):** https://youtu.be/8mrqJ03PUwU?si=UhISEwxEPtANbQCK
 
 ---
 
